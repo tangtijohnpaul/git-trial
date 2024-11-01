@@ -1,0 +1,35 @@
+Hello Team,
+
+
+if qualified or think you can do the below job, please email the recuiter email you see here saqlain@maania.com
+It is not me and he/she does not know me. GOOD LUCK
+
+
+JOB DETAILS
+
+Position Name: Junior Cybersecurity Operations
+
+Position Type: Full-time Permanent - REMOTE
+
+Location: HYBRID REMOTE 4 Days Onsite a Month
+
+Salary Range: $75K-80K with full benefits
+
+Work Authorization: US Citizen
+
+
+
+
+Requirements:
+
+Experience creating reporting and metrics that demonstrate the health and well-being of a cybersecurity program; knowledge of and experience with reporting and visualization tools and dashboarding capabilities such as Splunk, Tableau, PowerApps, or other measurement and reporting tools is highly desirable
+Experience creating impactful and visually appealing reports that communicate their point clearly
+Knowledge and experience with technical writing for computer network defense subjects
+Experience performing all-source threat intelligence analysis to support computer network defense activities
+Experience with computer network defense operations, including intrusion detection, intrusion prevention, and incident response, to include authoring and implementing custom detection content for signature-based detection systems, security information and event management (SIEM) systems, host-based detection systems, and firewall logic; Splunk experience is highly desirable
+Experience monitoring and defending both local (on-premises) and cloud computing systems, to include Amazon Web Services (AWS), Microsoft Azure, Google Cloud, Cisco networking appliances, F5, Bluecoat, Palo Alto, VMware, CrowdStrike, Tenable, FireEye, Gigamon, and other common enterprise security technology providers
+Experience investigating network anomalies and responding to cybersecurity incidents in either local (on-premises) or cloud computing systems, including all phases of the digital forensics and incident response process (e.g. preparation, scoping, containment, eradication, remediation, recovery, lessons learned, and closeout)
+While candidates are not required to have these certifications, knowledge should be consistent with that of the following certifications: GIAC Certified Incident Handler (GCIH), GIAC Security Essentials (GSEC), and/or CompTIA Security+
+
+
+NOTE: Along with a resume, You have to submit at least 2 writing samples that show experience with cybersecurity operations including intrusion detection, intrusion prevention and/or incident response.
